@@ -31,9 +31,3 @@ FUNC_findpeak <- function(vec,a)
   }
 }
 
-x<-iris$Sepal.Length
-FUNC_findpeak(x,1)
-FUNC_findpeak(x,2)
-FUNC_findpeak(x,3)
-FUNC_findpeak(x,4)
-
