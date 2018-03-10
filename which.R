@@ -37,5 +37,3 @@ FUNC_findpeak(x,2)
 FUNC_findpeak(x,3)
 FUNC_findpeak(x,4)
 
-
-
